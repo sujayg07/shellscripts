@@ -18,3 +18,5 @@ else
 fi
 
 echo "I have changed this branch"
+
+echo "Testing git commit on EC2"
